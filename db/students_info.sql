@@ -40,8 +40,10 @@ CREATE TABLE `students_info` (
 
 INSERT INTO `students_info` (`id`, `name`, `age`, `CGPA`) VALUES
 (2201132, 'mazen mohmed', 21, 2.86),
-(22010148, 'abdalrahman mohmed abdalla mohmed', 21, 2.48);
-
+(22010148, 'abdalrahman mohmed abdalla mohmed', 21, 2.48),
+(22010171, 'Omar Mohamed Mohamed Al-Deeb ', 22, 2.48),
+(22010144, 'Abdulrahman Ayman Rafat Abdulaziz ', 20, 2.48),
+(22011648, 'Mark Mukhlis Rasmi', 21, 2.48);
 --
 -- Indexes for dumped tables
 --
